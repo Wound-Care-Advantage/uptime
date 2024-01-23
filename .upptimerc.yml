@@ -26,6 +26,8 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://thewca.s3.us-west-1.amazonaws.com/wp/logos/wound_care_advantage_logo.png
   name: WCA Uptime
+  theme: light
+  robotsText: "User-agent: * \n Disallow: /"
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # navbar:
@@ -33,6 +35,9 @@ status-website:
   #     href: /
   #   - title: GitHub
   #     href: https://github.com/$OWNER/$REPO
+
+# Requests made to the GitHub API must include a valid User-Agent header. It is recommended to use your GitHub username here:
+user-agent: jminiat-wca
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
