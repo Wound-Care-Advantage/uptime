@@ -12,7 +12,6 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.thewca.com
-  baseUrl: /uptime
   logoUrl: https://thewca.s3.us-west-1.amazonaws.com/wp/logos/wound_care_advantage_logo.png
   name: WCA Uptime
   theme: light
