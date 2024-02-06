@@ -4,18 +4,20 @@
     "url": "https://luvo.care/health/check",
     "icon": "https://icons.duckduckgo.com/ip3/luvo.care.ico",
     "slug": "luvo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1599,
-    "timeDay": 1772,
-    "timeWeek": 1687,
-    "timeMonth": 1599,
-    "timeYear": 1599,
-    "dailyMinutesDown": {}
+    "time": 1600,
+    "timeDay": 1699,
+    "timeWeek": 1679,
+    "timeMonth": 1600,
+    "timeYear": 1600,
+    "dailyMinutesDown": {
+      "2024-02-06": 0
+    }
   },
   {
     "name": "TheWCA",
