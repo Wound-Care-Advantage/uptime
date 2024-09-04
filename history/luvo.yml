@@ -1,7 +1,7 @@
 url: https://luvo.care/health/check
-status: up
-code: 200
-responseTime: 3418
-lastUpdated: 2024-09-03T23:22:08.660Z
+status: down
+code: 502
+responseTime: 660
+lastUpdated: 2024-09-04T19:11:57.702Z
 startTime: 2024-01-23T20:49:52.429Z
 generator: Upptime <https://github.com/upptime/upptime>
