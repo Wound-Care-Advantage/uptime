@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/luvo.care.ico",
     "slug": "luvo",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "95.06%",
-    "time": 2538,
-    "timeDay": 3449,
-    "timeWeek": 3508,
+    "time": 2543,
+    "timeDay": 4878,
+    "timeWeek": 3687,
     "timeMonth": 3483,
-    "timeYear": 2631,
+    "timeYear": 2638,
     "dailyMinutesDown": {
       "2025-02-07": 18,
       "2025-01-23": 32,
@@ -63,8 +63,7 @@
       "2024-03-26": 44,
       "2024-03-14": 22,
       "2024-03-12": 28,
-      "2024-03-06": 27,
-      "2024-02-26": 19
+      "2024-03-06": 27
     }
   },
   {
@@ -79,10 +78,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 294,
-    "timeDay": 388,
-    "timeWeek": 309,
-    "timeMonth": 325,
-    "timeYear": 296,
+    "timeDay": 320,
+    "timeWeek": 327,
+    "timeMonth": 318,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2025-02-05": 21,
       "2024-08-09": 27,
